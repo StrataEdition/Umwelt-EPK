@@ -6,11 +6,11 @@ permalink: /
 
 <img src="logo.png" alt="Strata Logo" class="centered-logo">
 
-# Gloves to Bouquet: Ettrick Sites
+# Uenos Onas: Umwelt
 
-Listening & Download link for Gloves to Bouquet *Ettrick Sites* on STRATA for radio X press X personal enjoyment
+Listening & Download link for Uenos Onas: *Umwelt* on STRATA for radio X press X personal enjoyment
 
-### Release Date: 17.01.25 (Bandcamp, NINA Protocol)
+### Release Date: xx.xx.25 (Bandcamp, NINA Protocol, Carbon)
 <br/>
 [Private Streaming Link](https://on.soundcloud.com/4Cv8n7n5JwtJ15Ex7) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1FIs8TBnxo_RsFuXn9e8zvKQpqvLfNhaX?usp=sharing) (*Please do not share*)
