@@ -33,8 +33,9 @@ h3 {
     margin-top: 22px;
     font-weight: bold;
     font-style: bold;
+    width: 50%;  
+    max-width: 40%;
     color: var(--text-color);
-    text-align: center; /* This will center only h3 */
 }
 
 h1 { font-size: $title-font-size;  margin: 0px;  margin-top: 22px;  font-weight: extra-bold;  font-style: bold; color: var(--text-color); }
@@ -48,7 +49,7 @@ a:hover { color: var(--background-color); background-color: var(--base-color); }
     margin-left: auto;
     margin-right: 0;
     width: 70%;  
-    max-width: %50;
+    max-width: 50%;
     height: auto;
 }
 
