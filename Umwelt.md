@@ -8,12 +8,12 @@ permalink: /
 Onas Ueno
   
 ▮ Release Date: 29.06.2025
-Listening & Download link for Uenos Onas: *Umwelt* on STRATA for radio X press X personal enjoyment
+
 <br/>
+*Listening & Download links for Uenos Onas: *Umwelt* on STRATA for radio X press X personal enjoyment*
 [Private Streaming Link](https://on.soundcloud.com/4Cv8n7n5JwtJ15Ex7) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1FIs8TBnxo_RsFuXn9e8zvKQpqvLfNhaX?usp=sharing) (*Please do not share*)
-
-
+---
   
 *Across its runtime, Onas Ueno builds immersive soundscapes that shift and fragment like thoughts mid-formation. Blending ambient atmospheres, digital dissonance, and tactile textures, **Umwelt** sketches a fragmented world—half hyper-real, half doodle. The title, Umwelt—borrowed from the German term for 'the world as experienced by a particular organism'—serves as a guiding principle in the formation of the songs, allowing the sounds to evolve with a sense of self-determination*
 
