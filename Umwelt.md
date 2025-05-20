@@ -28,7 +28,6 @@ Listening & Download link for Uenos Onas: *Umwelt* on STRATA for radio X press X
 4. Qualia
 5. Tools For A Second
 6. What Angels
-
   
 ▮ Credits
 Written and Produced: **Jonas Pequeno**
