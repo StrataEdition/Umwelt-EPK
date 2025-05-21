@@ -6,11 +6,13 @@ permalink: /
 
 ▮ Umwelt
 Onas Ueno
-<p></p>
+<br>
+<br>
 ▮ Release Date: **29.06.2025**
 [Private Streaming Link](https://on.soundcloud.com/4Cv8n7n5JwtJ15Ex7) (*Please do not share*)
 [Private Download Link](https://drive.google.com/drive/folders/1FIs8TBnxo_RsFuXn9e8zvKQpqvLfNhaX?usp=sharing) (*Please do not share*)
-<p></p>
+<br>
+<br>
 
 ---
   
@@ -26,17 +28,20 @@ Onas Ueno
 4. Qualia
 5. Tools For A Second
 6. What Angels
-<p></p>
+<br>
+<br>
   
 ▮ Credits
 Written and Produced: **Jonas Pequeno**
 Engineer: **Ryan Pumo**
 Cover Design: **Amelia Galliford**
-<p></p>
+<br>
+<br>
   
 ▮ Artist Bio
 Gloves to Bouquet is a collaborative project consisting of Alexander MacKinnon and Jonas Pequeno.
-<p></p>
+<br>
+<br>
 ▮For all enquiries, please contact: **strata.edition@gmail.com**
 
-<img src="BWLogo.png" alt="Strata Logo" class="centered-logo">
+<img src="BWLogo_.png" alt="Strata Logo" class="centered-logo">
