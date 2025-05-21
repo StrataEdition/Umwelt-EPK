@@ -37,7 +37,8 @@ Cover Design: **Amelia Galliford**
 ▮ Artist Bio
 Gloves to Bouquet is a collaborative project consisting of Alexander MacKinnon and Jonas Pequeno.
 <br>
-▮For all enquiries, please contact: **strata.edition@gmail.com**
+▮ For all enquiries, please contact: **strata.edition@gmail.com**
+<br>
 <br>
 
 
