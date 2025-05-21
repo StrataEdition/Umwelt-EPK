@@ -21,7 +21,7 @@ Onas Ueno
 ▮ Tracklist
 1. Too Ghost To Body
 2. Lo
-3. EVery Dread Delight
+3. Every Dread Delight
 4. Qualia
 5. Tools For A Second
 6. What Angels
