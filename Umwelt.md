@@ -25,6 +25,7 @@ Onas Ueno
 4. Qualia
 5. Tools For A Second
 6. What Angels
+
 <br>
   
 ▮ Credits
@@ -37,5 +38,7 @@ Cover Design: **Amelia Galliford**
 Gloves to Bouquet is a collaborative project consisting of Alexander MacKinnon and Jonas Pequeno.
 <br>
 ▮For all enquiries, please contact: **strata.edition@gmail.com**
+<br>
+
 
 <img src="BWLogo_.png" alt="Strata Logo" class="centered-logo">
