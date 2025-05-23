@@ -35,7 +35,7 @@ Cover Design: **Amelia Galliford**
 <br>
   
 ▮ Artist Bio
-Gloves to Bouquet is a collaborative project consisting of Alexander MacKinnon and Jonas Pequeno.
+Onas Ueno is a London-based multidisciplinary artist.
 <br>
 ▮ For all enquiries, please contact: **strata.edition@gmail.com**
 <br>
