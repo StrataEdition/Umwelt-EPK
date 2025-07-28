@@ -1,7 +1,6 @@
 ---
 title: Umwelt EPK
 layout: home
-permalink: /
 ---
 
 ▮ Umwelt
