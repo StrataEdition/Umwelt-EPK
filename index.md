@@ -14,7 +14,7 @@ Onas Ueno
 
 ---
   
-*Across its runtime, Onas Ueno builds immersive soundscapes that shift and fragment like thoughts mid-formation. Blending ambient atmospheres, digital dissonance, and tactile textures, **Umwelt** sketches a fragmented world—half hyper-real, half doodle. The title, Umwelt—borrowed from the German term for 'the world as experienced by a particular organism'—serves as a guiding principle in the formation of the songs, allowing the sounds to evolve with a sense of self-determination.*
+*Across its runtime, Onas Ueno builds immersive soundscapes that shift and fracture like thoughts mid-formation. Blending ambient atmospheres, digital dissonance and tactile textures, Umwelt sketches a fragmented world; half hyper-real, half doodle. The title, Umwelt, borrowed from the German term for ‘the world as experienced by a particular organism’, serves as a guiding principle in the formation of the songs, allowing the sounds to evolve with a sense of self-determination.*
 
 <img src="UmweltCover.jpg" alt="Umwelt Cover" class="centered-image">
   
@@ -30,7 +30,8 @@ Onas Ueno
   
 ▮ Credits
 Written and Produced: **Jonas Pequeno**
-Engineer: **Ryan Pumo**
+Mixing Engineer: **Jonas Pequeno**
+Master Engineer: **Conor Dalton**
 Cover Design: **Amelia Galliford**
 <br>
   
