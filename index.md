@@ -1,4 +1,5 @@
 ---
+---
 title: Umwelt EPK
 layout: home
 permalink: /
@@ -44,3 +45,5 @@ Onas Ueno is a London-based multidisciplinary artist.
 
 
 <img src="BWLogo_.png" alt="Strata Logo" class="centered-logo">
+---
+---
