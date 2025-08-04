@@ -3,7 +3,7 @@ title: Umwelt EPK
 layout: home
 ---
 
-▮ Umwelt
+▮ Umwelt EP
 Onas Ueno
 <br>
 ▮ Release Date: **05.09.2025**
