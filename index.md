@@ -6,9 +6,9 @@ layout: home
 ▮ Umwelt
 Onas Ueno
 <br>
-▮ Release Date: **29.06.2025**
-[Private Streaming Link](https://on.soundcloud.com/4Cv8n7n5JwtJ15Ex7) (*Please do not share*)
-[Private Download Link](https://drive.google.com/drive/folders/1FIs8TBnxo_RsFuXn9e8zvKQpqvLfNhaX?usp=sharing) (*Please do not share*)
+▮ Release Date: **05.09.2025**
+[Private Streaming Link](https://on.soundcloud.com/IRJKTqzyTw0RrKJOHv) (*Please do not share*)
+[Private Download Link](https://drive.google.com/drive/folders/1dkPF0S0om1bNitojJD--bZ2Ng0SwfgGL?usp=sharing) (*Please do not share*)
 <br>
 
 ---
